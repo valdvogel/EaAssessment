@@ -13,7 +13,7 @@ Java 8 installed on machine;
 Input:
 input.in
 
-Output
+Output:
 output.dat
 
 * Input file should be added in EaAssessment/src/files/input/input.in;
