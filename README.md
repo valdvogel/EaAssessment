@@ -16,11 +16,12 @@ input.in
 Output
 output.dat
 
-Input file should be added in EaAssessment/src/files/input/input.in;
-Output file will be generated in EaAssessment/src/files/output/output.dat;
+* Input file should be added in EaAssessment/src/files/input/input.in;
+* Output file will be generated in EaAssessment/src/files/output/output.dat;
 
 How to run this application:
 
+```
 1. Open you terminal and clone this repo;
 
 2. Goes to folder EaAssessment/src;
@@ -28,6 +29,7 @@ How to run this application:
 	
 3. Run the file muzeEA.sh;
 	sh muzeEA.sh;
+```
 
 Once you run this script the application compile and build the artifacts. 
 After that run the application using the input file and generate a result that will be showed on you terminal and output.dat
