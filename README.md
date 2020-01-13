@@ -23,7 +23,8 @@ How to run this application:
 
 ```
 1. Open you terminal and clone this repo;
-
+	git clone https://github.com/valdvogel/EaAssessment.git
+	
 2. Goes to folder EaAssessment/src;
 	cd EaAssessment/src
 	
